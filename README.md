@@ -139,7 +139,7 @@ This project demonstrates:
 ## Authentication
 
 * Django Authentication System
-* JWT Authentication (if implemented)
+* JWT Authentication 
 
 ## Version Control
 
